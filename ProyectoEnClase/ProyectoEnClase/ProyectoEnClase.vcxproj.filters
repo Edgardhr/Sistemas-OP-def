@@ -18,9 +18,15 @@
     <ClCompile Include="ProyectoEnClase.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="utils\ConsoleControler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1TutorialThread\Threadtutorial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\ConsoleControler.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
